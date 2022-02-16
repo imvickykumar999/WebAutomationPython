@@ -1,5 +1,8 @@
 # WebAutomationPython
-Code for web automation to fill out a form
+
+### >>> Use `Ctrl + Shift + c` and copy Xpath of tag.
+
+--------------------------------
 
 ## [Automate Signin on w3s](https://github.com/imvickykumar999/WebAutomationPython/blob/master/w3s_login.py)
 
